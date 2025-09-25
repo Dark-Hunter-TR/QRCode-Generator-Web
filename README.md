@@ -220,7 +220,7 @@ qrcode-generator/
 
 ### Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR-USERNAME/YOUR-REPO-NAME)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Dark-Hunter-TR/QRCode-Generator-Web)
 
 ### Manual Deployment
 
@@ -344,3 +344,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⬆ Back to Top](#-qr-generator)
 
 </div>
+
