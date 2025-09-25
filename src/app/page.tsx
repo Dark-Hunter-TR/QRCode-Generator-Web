@@ -85,7 +85,7 @@ export default function Home() {
               </div>
             </div>
             <a
-              href="https://github.com/yourusername/qrcode-generator"
+              href="https://github.com/Dark-Hunter-TR/QRCode-Generator-Web"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
@@ -308,7 +308,7 @@ export default function Home() {
             <p className="text-sm">
               This project is licensed under MIT.{' '}
               <a
-                href="https://github.com/yourusername/qrcode-generator"
+                href="https://github.com/Dark-Hunter-TR/QRCode-Generator-Web"
                 className="text-blue-600 dark:text-blue-400 hover:underline"
                 target="_blank"
                 rel="noopener noreferrer"
